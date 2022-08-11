@@ -1,3 +1,11 @@
+From https://www.youtube.com/watch?v=cQ6V7ZHzg8c
+and https://github.com/NikValdez/Fullstack-nextjs-prisma
+
+This version uses a proper Prisma UPDATE command to update an existing Note, whereas the video above DELETES the existing Note and creates a new Note with a new ID as the update process.
+
+Note: requires a PostgreSQL database path in .env file
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
