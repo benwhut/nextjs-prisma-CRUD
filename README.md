@@ -1,4 +1,4 @@
-## Simple NextJS React CRUD Note App using Prisma TailwindCSS and PostgreSQL
+## Simple NextJS React CRUD Note App using Prisma, TailwindCSS and PostgreSQL
 
 From https://www.youtube.com/watch?v=cQ6V7ZHzg8c
 and https://github.com/NikValdez/Fullstack-nextjs-prisma
